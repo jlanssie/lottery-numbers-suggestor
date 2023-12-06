@@ -1,0 +1,5 @@
+# Data
+data/
+
+# MacOs
+.DS_Store
